@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-
-**omergal99/omergal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Omer's github stats](https://github-readme-stats.vercel.app/api?username=omergal99&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergal99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on private project with React (Hooks & Redux), Node.js, MongoDB, mongoose, Heroku.
+
+- 🌱 I’m currently learning Python! :)
+
+- 👯 I’m looking to collaborate on my future startup
+
+- 🤔 I’m looking for help with Docker and push notification in React
+
+- 💬 Ask me about Javascript, css, React Hooks and Redux, Node.js, MongoDB, PWA, Resposive Design, Cache memory, Offline Mode, Control Theme Color, Design, Product things, Useing SVG Maps, Google maps, Material-UI, AG-Grid, DnD, Cyber Scurity and more!
+
+- 📫 How to reach me: on a LinkedIn message https://www.linkedin.com/in/omergal99
+
+- ⚡ Fun fact: my first computer was a comfy
 
