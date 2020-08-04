@@ -3,6 +3,15 @@
 
 **omergal99/omergal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?omergal99=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?omergal99=anuraghazra&hide=contribs,prs)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?omergal99=anuraghazra&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?omergal99=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
