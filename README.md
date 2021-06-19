@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Omer's github stats](https://github-readme-stats.vercel.app/api?username=omergal99&count_private=true)
+![Omer's github stats](https://github-readme-stats.vercel.app/api?username=omergal99&count_private=true&show_icons=true&theme=solarized-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omergal99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
