@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omer Gal  [![Portfolio](https://img.shields.io/badge/✨_Live_Career_Portfolio-Click_Here-blue?style=for-the-badge)](https://omergal99.github.io/omergal99/cv_portfolio.html)
+# 👋 Hi, I'm Omer Gal    [![Portfolio](https://img.shields.io/badge/✨_Live_Career_Portfolio-Click_Here-blue?style=for-the-badge)](https://omergal99.github.io/cv/cv_portfolio.html)
 ### Senior Software Engineer | Full-Stack Cloud & AI Engineer | DevEx Specialist
 
 <p align="left">
